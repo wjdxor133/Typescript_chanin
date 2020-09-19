@@ -1,3 +1,12 @@
-# Typechain
+# 미니 프로젝트 : Typechain
 
-Learning Typescript by making a Blockchain with it
+## Introdution
+타입스크립트를 통해 블록 체인 만들기 
+- 인원 : 본인 1명
+
+## 목표
+- 타입스크립트 타입 선언, 인터페이스 선언, 클래스 선언 익히기
+
+
+## 사용한 기술
+- Typescript
